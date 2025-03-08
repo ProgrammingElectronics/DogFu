@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://irru62fn27v"
+path="res://.godot/imported/Gold3.wav-17ef0e114755e48c0de08a0982456756.sample"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Sounds/Game/Gold3.wav"
+dest_files=["res://.godot/imported/Gold3.wav-17ef0e114755e48c0de08a0982456756.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

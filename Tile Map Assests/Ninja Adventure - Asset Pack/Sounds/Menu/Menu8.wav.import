@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ba68gp758cbri"
+path="res://.godot/imported/Menu8.wav-e76841d522a5d4c3e9a30c60089b4e7e.sample"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Sounds/Menu/Menu8.wav"
+dest_files=["res://.godot/imported/Menu8.wav-e76841d522a5d4c3e9a30c60089b4e7e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

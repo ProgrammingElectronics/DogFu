@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5mgyd86y2jmn"
+path="res://.godot/imported/28 - Tension.ogg-5bb954006a518b725da63746cad33e9d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Musics/28 - Tension.ogg"
+dest_files=["res://.godot/imported/28 - Tension.ogg-5bb954006a518b725da63746cad33e9d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

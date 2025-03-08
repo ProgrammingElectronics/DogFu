@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://7o72agdv5gy6"
+path="res://.godot/imported/PowerUp1.wav-e5a99c4c77a423ad2dfd5c76a5df9538.sample"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Sounds/Game/PowerUp1.wav"
+dest_files=["res://.godot/imported/PowerUp1.wav-e5a99c4c77a423ad2dfd5c76a5df9538.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

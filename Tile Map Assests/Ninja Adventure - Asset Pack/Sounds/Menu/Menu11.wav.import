@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://uc74itbrdoil"
+path="res://.godot/imported/Menu11.wav-27c7871949cbc52cec29898fb19cf828.sample"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Sounds/Menu/Menu11.wav"
+dest_files=["res://.godot/imported/Menu11.wav-27c7871949cbc52cec29898fb19cf828.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

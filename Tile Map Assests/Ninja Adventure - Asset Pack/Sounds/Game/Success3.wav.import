@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ck41v32pk7ung"
+path="res://.godot/imported/Success3.wav-5f22afa5ef3c6f880f1c4a25218bd3a8.sample"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Sounds/Game/Success3.wav"
+dest_files=["res://.godot/imported/Success3.wav-5f22afa5ef3c6f880f1c4a25218bd3a8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

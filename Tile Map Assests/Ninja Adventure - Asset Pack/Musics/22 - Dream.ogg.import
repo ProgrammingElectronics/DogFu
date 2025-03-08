@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ckpj7638jgtjy"
+path="res://.godot/imported/22 - Dream.ogg-daa2a4278ace3897bf6b3946c30f639b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Tile Map Assests/Ninja Adventure - Asset Pack/Musics/22 - Dream.ogg"
+dest_files=["res://.godot/imported/22 - Dream.ogg-daa2a4278ace3897bf6b3946c30f639b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
